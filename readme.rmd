@@ -2,4 +2,7 @@ Might need to change file paths slightly, and also might need to debug to make s
 
 It worked for me until my 24 sec run and then I did some slight changes and broke it (I think it's mostly an alignment issue)
 
-glhf
+here is the website again:
+https://minesweeperonline.com/
+
+glhf.
