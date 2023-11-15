@@ -6,3 +6,5 @@ here is the website again:
 https://minesweeperonline.com/
 
 I think they took my record down :( (see screenshot)
+
+Motivation: I got addicted to this website and there was no way I would beat the wr manually, so I made a bot to do it.
